@@ -1,0 +1,2 @@
+# MyTestGame
+BGA Reversi Game
